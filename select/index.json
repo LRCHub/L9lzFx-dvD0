@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "The Road To Mandalay",
+  "base_artist": "Robbie Williams",
+  "createdAt": "2026-02-24T03:21:13.955233Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Road To Mandalay",
+      "artist": "Robbie Williams",
+      "has_synced": true,
+      "path": "select/01_The_Road_To_Mandalay_Robbie_Williams.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Road To Mandalay",
+      "artist": "Robbie Williams",
+      "has_synced": true,
+      "path": "select/02_The_Road_To_Mandalay_Robbie_Williams.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Road To Mandalay",
+      "artist": "Robbie Williams",
+      "has_synced": true,
+      "path": "select/03_The_Road_To_Mandalay_Robbie_Williams.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Road To Mandalay",
+      "artist": "Robbie Williams",
+      "has_synced": true,
+      "path": "select/04_The_Road_To_Mandalay_Robbie_Williams.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Road To Mandalay",
+      "artist": "Robbie Williams",
+      "has_synced": true,
+      "path": "select/05_The_Road_To_Mandalay_Robbie_Williams.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Road To Mandalay",
+      "artist": "Robbie Williams",
+      "has_synced": true,
+      "path": "select/06_The_Road_To_Mandalay_Robbie_Williams.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Road to Mandalay (XXV)",
+      "artist": "Williams, Robbie",
+      "has_synced": true,
+      "path": "select/07_The_Road_to_Mandalay_(XXV)_Williams,_Robbie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "On the Road to Mandalay",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/08_On_the_Road_to_Mandalay_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Road to Mandalay",
+      "artist": "Robbie Williams",
+      "has_synced": true,
+      "path": "select/09_The_Road_to_Mandalay_Robbie_Williams.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Road to Mandalay",
+      "artist": "Robbie Williams",
+      "has_synced": true,
+      "path": "select/10_The_Road_to_Mandalay_Robbie_Williams.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Road To Mandalay",
+      "artist": "Robbie Williams",
+      "has_synced": true,
+      "path": "select/11_The_Road_To_Mandalay_Robbie_Williams.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Road To Mandalay",
+      "artist": "Williams, Robbie",
+      "has_synced": true,
+      "path": "select/12_The_Road_To_Mandalay_Williams,_Robbie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Road To Mandalay.mp3",
+      "artist": "Robbie Williams",
+      "has_synced": true,
+      "path": "select/13_The_Road_To_Mandalay.mp3_Robbie_Williams.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Road to Mandalay",
+      "artist": "Robbie Williams",
+      "has_synced": true,
+      "path": "select/14_The_Road_to_Mandalay_Robbie_Williams.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Road To Mandalay (Robbie  Williams)",
+      "artist": "Mixed",
+      "has_synced": true,
+      "path": "select/15_The_Road_To_Mandalay_(Robbie_Williams)_Mixed.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "On the Road to Mandalay",
+      "artist": "Frank Sinatra",
+      "has_synced": false,
+      "path": "select/16_On_the_Road_to_Mandalay_Frank_Sinatra.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Road to Mandalay",
+      "artist": "Robbie Williams",
+      "has_synced": true,
+      "path": "select/17_The_Road_to_Mandalay_Robbie_Williams.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Road to Mandalay (XXV)",
+      "artist": "Robbie Williams",
+      "has_synced": true,
+      "path": "select/18_The_Road_to_Mandalay_(XXV)_Robbie_Williams.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Road To Mandalay",
+      "artist": "Robbie Williams",
+      "has_synced": false,
+      "path": "select/pl_01_The_Road_To_Mandalay_Robbie_Williams.txt"
+    }
+  ]
+}
